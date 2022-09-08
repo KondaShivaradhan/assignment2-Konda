@@ -15,4 +15,3 @@ The closet airport is in Amritsar, Punjab.
 - Jaliyan wala bhag
 - Kapurthala science city
 - Ramamandi gurudwara   
-[AboutMe](./AboutMe.md)
