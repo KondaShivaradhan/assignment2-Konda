@@ -31,5 +31,19 @@ ___
 > Is a bank account, and time is our currency. No one is rich, no one is poor, we've got 24 hours each. - *Christopher Rice* 
 > <br>
 >It's how you deal with failure that determines how you achieve success. - *David Feherty*
-
+___
+## Code Fencing
+> How can I inject a string of HTML into an element?
+> [Stack over flow](https://stackoverflow.com/questions/1333202/embed-flash-in-html)
+```
+<object type="application/x-shockwave-flash" 
+  data="your-flash-file.swf" 
+  width="0" height="0">
+  <param name="movie" value="your-flash-file.swf" />
+  <param name="quality" value="high"/>
+</object>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+[View in css-tricks](https://css-tricks.com/snippets/html/embedding-flash/)
 
