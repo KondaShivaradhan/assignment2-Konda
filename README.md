@@ -26,4 +26,10 @@ The below table contains citie and their respective information about why i reco
 |Amritsar| Golden Temple | 2hrs|
 |Patiala| Old heritage |1hr|
 |phatankot| Military exibition | 1hr|
+___
+## Quotes 
+> Is a bank account, and time is our currency. No one is rich, no one is poor, we've got 24 hours each. - *Christopher Rice* 
+> <br>
+>It's how you deal with failure that determines how you achieve success. - *David Feherty*
+
 
