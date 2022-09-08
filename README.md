@@ -16,3 +16,14 @@ The closet airport is in Amritsar, Punjab.
 - Kapurthala science city
 - Ramamandi gurudwara   
 [AboutMe](./AboutMe.md)
+
+___
+## Other Place Recomendations
+The below table contains citie and their respective information about why i recommand it for a visit.
+| City | Place to See | Time constrains|
+| -------| -----------|------|
+|Chandigard|Water park| 4hrs|
+|Amritsar| Golden Temple | 2hrs|
+|Patiala| Old heritage |1hr|
+|phatankot| Military exibition | 1hr|
+
